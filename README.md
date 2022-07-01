@@ -61,6 +61,6 @@ _keyboard ribbon cable pin multiplexing mapping_
    
    - Leave the rest of the board settings by default
    
- - If want, you can enable bootloader and leave out a reset pin on the serial connector for future configuring of the key macros.
+   - If want, you can enable bootloader and leave out a reset pin on the serial connector for future configuring of the key macros.
    
  - Flash via ISP programmer and it's done.
