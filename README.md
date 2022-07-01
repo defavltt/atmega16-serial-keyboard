@@ -27,7 +27,7 @@ _When designing an application at the other end of the serial cable, you may con
 Can be made with ATmega16/164/32/324/644/1284/8535 (44pin TQFP packege).
 
 For 115200 serial baud rate a 16Mhz or a different suitable crystal is required, even though it's not included in the board design.
-Board is designed for single side etching with some wire jumpers. Feel free to improve it.
+Board is designed for single side etching and some wire jumpers, vias are only for ground connection to the bottom layer. Feel free to improve it.
 
 There are pads left on the PCB for ISP programming.
 
