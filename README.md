@@ -31,6 +31,8 @@ Board is designed for single side etching and some wire jumpers, vias are only f
 
 There are pads left on the PCB for ISP programming.
 
+File for a 3D printed case is included. This case only suits keyboards with frame size - 211mm x 80mm.
+
 ![](images/keyb-values.jpg)  
 _values that can be sent from the corresponding keys_
 
