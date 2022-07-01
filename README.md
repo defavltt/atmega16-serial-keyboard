@@ -1,5 +1,7 @@
 # ATmega16 serial keyboard
 
+![](images/keyb-serial.jpg)
+
 ## Features
 
  - Key macros can be added in code
@@ -29,7 +31,21 @@ Board is designed for single side etching with some wire jumpers. Feel free to i
 
 There are pads left on the PCB for ISP programming.
 
-This project uses [MightyCore](https://github.com/MCUdude/MightyCore).
+![](images/keyb-values.jpg)  
+_values that can be sent from the corresponding keys_
+
+![](images/keyb-assemb.jpg)  
+_assembled board only with components, no jumper wires or crystal_
+
+<img src="images/keyb-pcbs.jpg" width="800">
+
+_< toner layer to protect copper from etchant | etched pcb >_
+
+![](images/keyb-connected-lr.jpg)  
+_serial keyboard connected to a RFM95 LoRa communicator_
+
+![](images/keyb-matrix.png)
+_keyboard ribbon cable pin multiplexing mapping_
 
 # Programming
 
